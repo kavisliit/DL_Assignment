@@ -3,3 +3,6 @@
 /Normalize
 /Raw
 /Resize
+/drowsiness_detection_model_crnn.h5
+/haarcascade_frontalface_default.xml
+/test
